@@ -21,7 +21,7 @@ By combining a compact, scalable design with modern digital back-ends, BLADE ena
 
 ## Engineering students
 - Ho Khue (BSc Student, IU, TBC)
-- Lưu Đình Hiển, Hậu Nguyễn, Thi Nguyễn  (BSc student, IU, TBC)
+- Lưu Đình Hiển, Hậu Nguyễn, Thy Bùi (BSc student, IU, TBC)
 - Phúc Vinh (Hinschu Uni, TBC)
 - Nguyên Tùng Lâm (USTH, TBC)
 
